@@ -19,7 +19,7 @@ if (typeof input === "string") {
     } else {
         console.log("This is not a palindrome.");
     }
-    console.log(`Original: ${newInput} Reverse: ${palindromeVer}`)
+    console.log(`Original: ${newInput} Reverse: ${palindromeVer}`);
 } else {
     console.log("invalid input");
 }
